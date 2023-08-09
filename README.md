@@ -1,1 +1,1 @@
-# automation_template
+# Details
